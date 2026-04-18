@@ -46,7 +46,19 @@ Quiero HTML/CSS →  entra en /html-css →  abre Codespaces  →  ya funciona �
 Cada lenguaje sigue la misma estructura. Sin sorpresas.
 
 ---
+## 💡 No necesitas un PC
 
+Una de las grandes ventajas de GitHub Codespaces es que **el entorno corre en la nube**, no en tu máquina. Eso significa que puedes programar desde cualquier dispositivo con navegador.
+
+¿No tienes un ordenador potente a mano? No importa. Puedes usar:
+
+- 📱 Un **smartphone** con un teclado inalámbrico y un ratón Bluetooth
+- 🖥️ Un ordenador antiguo o de baja potencia
+- 💻 Una tablet o Chromebook
+
+El código se ejecuta en los servidores de GitHub. Tu dispositivo solo necesita abrir un navegador.
+
+---
 ## ¿Por qué decidí crear esto?
 
 GitHub Codespaces es increíble. Pero cada vez que creas uno nuevo, el ritual es el mismo:
