@@ -1,0 +1,32 @@
+{
+  "name": "Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.pylance",
+        "ms-python.black-formatter",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "njpwerner.autodocstring",
+        "kevinrose.vsc-python-indent",
+        "visualstudioexptteam.vscodeintellicode"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "python.languageServer": "Pylance",
+        "python.analysis.typeCheckingMode": "basic",
+        "editor.fontSize": 14,
+        "editor.tabSize": 4,
+        "files.insertFinalNewline": true
+      }
+    }
+  },
+
+  "postCreateCommand": "pip install --upgrade pip",
+
+  "remoteUser": "vscode"
+}

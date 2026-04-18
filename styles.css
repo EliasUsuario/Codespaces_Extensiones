@@ -1,0 +1,59 @@
+/* Estilos básicos — personaliza libremente */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f0f4f8;
+  color: #1a202c;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #2d3748;
+}
+
+p {
+  margin-bottom: 1.5rem;
+  color: #4a5568;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card h2 {
+  margin-bottom: 1rem;
+  color: #2b6cb0;
+}
+
+ol {
+  padding-left: 1.25rem;
+}
+
+ol li {
+  margin-bottom: 0.5rem;
+}
+
+code {
+  background: #edf2f7;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.9em;
+}

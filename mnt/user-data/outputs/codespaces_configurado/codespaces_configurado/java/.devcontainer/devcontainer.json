@@ -1,0 +1,43 @@
+{
+  "name": "Java",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "21",
+      "installMaven": true,
+      "installGradle": false
+    }
+  },
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-debug",
+        "redhat.java",
+        "vscjava.vscode-java-dependency",
+        "visualstudioexptteam.vscodeintellicode",
+        "SonarSource.sonarlint-vscode"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "java.format.onType.enabled": true,
+        "editor.fontSize": 14,
+        "editor.tabSize": 4,
+        "java.completion.importOrder": [
+          "java",
+          "javax",
+          "com",
+          "org"
+        ]
+      }
+    }
+  },
+
+  "postCreateCommand": "java --version",
+
+  "remoteUser": "vscode"
+}
