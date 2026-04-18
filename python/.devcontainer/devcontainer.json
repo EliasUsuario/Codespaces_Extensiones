@@ -1,0 +1,21 @@
+{
+  "name": "Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.pylance",
+        "ms-python.black-formatter",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.fontSize": 14,
+        "editor.tabSize": 4
+      }
+    }
+  },
+  "remoteUser": "vscode"
+}
