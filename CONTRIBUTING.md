@@ -81,7 +81,7 @@ Describe brevemente qué lenguaje añadiste y por qué las extensiones elegidas 
 
 ---
 
-## Lenguajes que aceptamos
+## Lenguajes que se aceptan
 
 Cualquier lenguaje con soporte en VS Code y devcontainers oficiales:
 
@@ -97,6 +97,4 @@ Cualquier lenguaje con soporte en VS Code y devcontainers oficiales:
 - R
 - Dart / Flutter
 
----
 
-¿Tienes dudas? Abre un [issue](https://github.com/TU_USUARIO/codespaces_configurado/issues) y te ayudamos. 🙌
