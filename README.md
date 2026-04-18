@@ -11,7 +11,7 @@ Este repositorio lo hace por ti.
 
 ---
 
-## Así de simple
+## 🚀 Así de simple
 
 ```
 Quiero Python   →  entra en /python   →  abre Codespaces  →  ya funciona ✅
@@ -47,7 +47,7 @@ Cada lenguaje sigue la misma estructura. Sin sorpresas.
 
 ---
 
-## ¿Por qué decidí crearlo?
+## 💡 Why this exists
 
 GitHub Codespaces es increíble. Pero cada vez que creas uno nuevo, el ritual es el mismo:
 
@@ -63,7 +63,7 @@ Este repositorio existe para que tengas un entorno profesional y funcional en **
 
 ---
 
-##  ¿Cómo usarlo?
+## 🍴 ¿Cómo usarlo?
 
 ### ⭐ Opción recomendada — Use this template
 Pulsa **"Use this template"** arriba a la derecha en GitHub.  
