@@ -1,4 +1,4 @@
-# ⚡ codespaces_configurado
+# codespaces_configurado
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen.svg)](https://github.com/topics/beginner-friendly)
@@ -11,7 +11,7 @@ Este repositorio lo hace por ti.
 
 ---
 
-## 🚀 Así de simple
+## Así de simple
 
 ```
 Quiero Python   →  entra en /python   →  abre Codespaces  →  ya funciona ✅
@@ -22,18 +22,18 @@ Quiero HTML/CSS →  entra en /html-css →  abre Codespaces  →  ya funciona �
 
 ---
 
-## 🗂️ Lenguajes disponibles
+## Lenguajes disponibles
 
 | Lenguaje | Carpeta | Extensiones incluidas | Estado |
 |---|---|---|---|
 | 🐍 Python | [`/python`](./python) | Pylance, Black Formatter, Jupyter | ✅ Listo |
 | ☕ Java | [`/java`](./java) | Extension Pack for Java, Maven for Java | ✅ Listo |
 | 🟨 JavaScript | [`/javascript`](./javascript) | ESLint, Prettier, Node.js snippets | ✅ Listo |
-| | 🎨 HTML & CSS | [`/html-css`](./html-css) | Live Preview, HTML Snippets, CSS IntelliSense (incluye JS básico) | ✅ Listo |Listo |
+| 🎨 HTML & CSS | [`/html-css`](./html-css) | Live Preview, HTML Snippets, CSS IntelliSense (incluye JS básico) | ✅ Listo |Listo |
 
 ---
 
-## 📦 ¿Qué incluye cada carpeta?
+## ¿Qué incluye cada carpeta?
 
 ```
 /python
@@ -47,7 +47,7 @@ Cada lenguaje sigue la misma estructura. Sin sorpresas.
 
 ---
 
-## 💡 Why this exists
+## ¿Por qué decidí crear esto?
 
 GitHub Codespaces es increíble. Pero cada vez que creas uno nuevo, el ritual es el mismo:
 
@@ -63,7 +63,7 @@ Este repositorio existe para que tengas un entorno profesional y funcional en **
 
 ---
 
-## 🍴 ¿Cómo usarlo?
+## ¿Cómo usarlo?
 
 ### ⭐ Opción recomendada — Use this template
 Pulsa **"Use this template"** arriba a la derecha en GitHub.  
