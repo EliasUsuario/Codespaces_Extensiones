@@ -8,4 +8,8 @@ Pasos a seguir:
 Crea .devcontainer/devcontainer.json en el repositorio deseado.
 Dentro, añade esto para que siempre que se abra ese proyecto, las extensiones ya estén instaladas.
 
+HEAD
 Adjunto varios .json según lenguajes (solo hay que cambiar el nombre o el contenido si se desea).
+
+Adjunto varios .json según lenguajes (solo hay que cambiar el nombre o el contenido si se desea)
+cfdf13bc11edd56f9975d54f294a677361c9d2f8
