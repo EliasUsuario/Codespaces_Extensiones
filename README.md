@@ -144,4 +144,6 @@ MIT — úsalo, cópialo, forkéalo, compártelo libremente.
 <p align="center">
   Hecho para que el mundo pierda menos tiempo configurando entornos.<br>
   Si te fue útil, dale una ⭐ — ayuda a que más gente lo encuentre.
+  pc
+🧑‍💻​EliasUsuario
 </p>
