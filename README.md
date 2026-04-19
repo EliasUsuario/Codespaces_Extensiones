@@ -4,7 +4,7 @@
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen.svg)](https://github.com/topics/beginner-friendly)
 [![Codespaces Ready](https://img.shields.io/badge/Codespaces-Ready-blue?logo=github)](https://github.com/features/codespaces)
 
-> **Stop configuring. Start coding.**
+> **Stop configuraciones. Start codigo.**
 
 ¿Cansado de instalar extensiones y configurar tu entorno cada vez que abres un Codespace nuevo?  
 Este repositorio lo hace por ti.
@@ -66,6 +66,27 @@ Con estos repos: entra, pulsa **Code → Codespaces → Create codespace on main
 
 Cada lenguaje sigue la misma estructura. Sin sorpresas.
 
+---
+## 🔧 ¿Quieres añadir tus propias extensiones?
+
+Cada carpeta tiene un archivo `.devcontainer/devcontainer.json` donde puedes añadir las extensiones que más uses.
+
+Solo tienes que añadir el identificador de la extensión en la lista `extensions`:
+
+```json
+"extensions": [
+  "ms-python.python",
+  "ms-python.pylance",
+  "tu-extension-aqui"   ← añade aquí las que quieras
+]
+```
+
+Para encontrar el identificador de cualquier extensión:
+1. Búscala en el [Marketplace de VS Code](https://marketplace.visualstudio.com/vscode)
+2. En la página de la extensión, copia el valor que aparece en **"Unique Identifier"**
+3. Pégalo en la lista
+
+A partir de ese momento, cada Codespace que crees tendrá esa extensión instalada automáticamente. ✅
 ---
 
 ## 💡 No necesitas un PC
@@ -148,6 +169,6 @@ MIT — úsalo, cópialo, forkéalo, compártelo libremente.
 <p align="center">
   Hecho para que el mundo pierda menos tiempo configurando entornos.<br>
   Si te fue útil, dale una ⭐ — ayuda a que más gente lo encuentre.
-  pc
+
 🧑‍💻​EliasUsuario
 </p>
