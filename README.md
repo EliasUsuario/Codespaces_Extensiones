@@ -4,7 +4,7 @@
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen.svg)](https://github.com/topics/beginner-friendly)
 [![Codespaces Ready](https://img.shields.io/badge/Codespaces-Ready-blue?logo=github)](https://github.com/features/codespaces)
 
-> **Stop configuring. Start coding.**
+> **Stop configurar. Start programar.**
 
 ¿Cansado de instalar extensiones y configurar tu entorno cada vez que abres un Codespace nuevo?  
 Este repositorio lo hace por ti.
@@ -30,6 +30,23 @@ Quiero HTML/CSS →  entra en /html-css →  abre Codespaces  →  ya funciona �
 | ☕ Java | [`/java`](./java) | Extension Pack for Java, Maven for Java | ✅ Listo |
 | 🟨 JavaScript | [`/javascript`](./javascript) | ESLint, Prettier, Node.js snippets | ✅ Listo |
 | 🎨 HTML & CSS | [`/html-css`](./html-css) | Live Preview, HTML Snippets, CSS IntelliSense (incluye JS básico) | ✅ Listo |Listo |
+
+---
+
+## ¿Prefieres algo más sencillo?
+
+Este repositorio incluye todos los lenguajes en un solo lugar, pero requiere clonar el repo completo y trabajar desde la carpeta del lenguaje que necesites.
+
+Si prefieres un acceso directo sin pasos extra, tienes un repositorio individual por lenguaje:
+
+| Lenguaje | Repositorio |
+|---|---|
+| 🐍 Python | [codespaces-python](https://github.com/EliasUsuario/codespaces-python) |
+| ☕ Java | [codespaces-java](https://github.com/EliasUsuario/codespaces-java) |
+| 🟨 JavaScript | [codespaces-javascript](https://github.com/EliasUsuario/codespaces-javascript) |
+| 🎨 HTML & CSS | [codespaces-html-css](https://github.com/EliasUsuario/codespaces-html-css) |
+
+Con estos repos: entra, pulsa **Code → Codespaces → Create codespace on main** y listo. ✅
 
 ---
 
