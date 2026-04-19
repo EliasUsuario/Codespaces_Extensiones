@@ -49,7 +49,8 @@ Si prefieres un acceso directo sin pasos extra, tienes un repositorio individual
 Con estos repos: entra, pulsa **Code → Codespaces → Create codespace on main** y listo. ✅
 
 ---
-
+¿Prefieres tenerlos todos en un solo lugar? Aquí tienes el repositorio general con todos los lenguajes: [codespaces_configurado](https://github.com/EliasUsuario/Codespaces_Extensiones)
+---
 ## ¿Qué incluye cada carpeta?
 
 ```
