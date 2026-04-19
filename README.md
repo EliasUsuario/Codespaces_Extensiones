@@ -4,7 +4,7 @@
 [![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen.svg)](https://github.com/topics/beginner-friendly)
 [![Codespaces Ready](https://img.shields.io/badge/Codespaces-Ready-blue?logo=github)](https://github.com/features/codespaces)
 
-> **Stop configurar. Start programar.**
+> **Stop configuring. Start coding.**
 
 ¿Cansado de instalar extensiones y configurar tu entorno cada vez que abres un Codespace nuevo?  
 Este repositorio lo hace por ti.
@@ -14,10 +14,10 @@ Este repositorio lo hace por ti.
 ## Así de simple
 
 ```
-Quiero Python   →  entra en /python   →  abre Codespaces  →  ya funciona ✅
-Quiero Java     →  entra en /java     →  abre Codespaces  →  ya funciona ✅
-Quiero JS       →  entra en /javascript → abre Codespaces →  ya funciona ✅
-Quiero HTML/CSS →  entra en /html-css →  abre Codespaces  →  ya funciona ✅
+Quiero Python   →  entra en /python      →  abre Codespaces  →  ya funciona ✅
+Quiero Java     →  entra en /java        →  abre Codespaces  →  ya funciona ✅
+Quiero JS       →  entra en /javascript  →  abre Codespaces  →  ya funciona ✅
+Quiero HTML/CSS →  entra en /html-css    →  abre Codespaces  →  ya funciona ✅
 ```
 
 ---
@@ -29,7 +29,7 @@ Quiero HTML/CSS →  entra en /html-css →  abre Codespaces  →  ya funciona �
 | 🐍 Python | [`/python`](./python) | Pylance, Black Formatter, Jupyter | ✅ Listo |
 | ☕ Java | [`/java`](./java) | Extension Pack for Java, Maven for Java | ✅ Listo |
 | 🟨 JavaScript | [`/javascript`](./javascript) | ESLint, Prettier, Node.js snippets | ✅ Listo |
-| 🎨 HTML & CSS | [`/html-css`](./html-css) | Live Preview, HTML Snippets, CSS IntelliSense (incluye JS básico) | ✅ Listo |Listo |
+| 🎨 HTML & CSS | [`/html-css`](./html-css) | Live Preview, HTML Snippets, CSS IntelliSense (incluye JS básico) | ✅ Listo |
 
 ---
 
@@ -63,6 +63,7 @@ Con estos repos: entra, pulsa **Code → Codespaces → Create codespace on main
 Cada lenguaje sigue la misma estructura. Sin sorpresas.
 
 ---
+
 ## 💡 No necesitas un PC
 
 Una de las grandes ventajas de GitHub Codespaces es que **el entorno corre en la nube**, no en tu máquina. Eso significa que puedes programar desde cualquier dispositivo con navegador.
@@ -76,6 +77,7 @@ Una de las grandes ventajas de GitHub Codespaces es que **el entorno corre en la
 El código se ejecuta en los servidores de GitHub. Tu dispositivo solo necesita abrir un navegador.
 
 ---
+
 ## ¿Por qué decidí crear esto?
 
 GitHub Codespaces es increíble. Pero cada vez que creas uno nuevo, el ritual es el mismo:
@@ -100,8 +102,8 @@ Crea tu propio repositorio con toda la estructura lista. Luego abre Codespaces d
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/codespaces_configurado.git
-cd codespaces_configurado/python  # o el lenguaje que quieras
+git clone https://github.com/EliasUsuario/Codespaces_Extensiones.git
+cd Codespaces_Extensiones/python  # o el lenguaje que quieras
 ```
 
 ### Solo copiar una carpeta
@@ -122,6 +124,14 @@ Si solo necesitas Python, copia únicamente la carpeta `/python` a tu proyecto. 
 **Regla de oro:** debe funcionar desde el primer segundo. Sin pasos extra.
 
 Consulta [`CONTRIBUTING.md`](./CONTRIBUTING.md) para la guía completa.
+
+---
+
+## 📚 ¿Quieres saber más sobre Codespaces?
+
+- 🌐 [Página oficial de GitHub Codespaces](https://github.com/features/codespaces)
+- 📖 [Documentación oficial](https://docs.github.com/en/codespaces)
+- 🚀 [Quickstart — empieza en 5 minutos](https://docs.github.com/codespaces/getting-started/quickstart)
 
 ---
 
